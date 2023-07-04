@@ -6,7 +6,7 @@ b. assert()
 c. revert()
 ## Description
 
-In this program I have declared four functions namely sub, divide, checkAge and changeAge to implement the require(), assert() and revert() statements.
+In this program I have declared four functions namely sub(), divide(), checkAge() and changeAge() to implement the require(), assert() and revert() statements.
 
 ### Executing program
 Functions: 
